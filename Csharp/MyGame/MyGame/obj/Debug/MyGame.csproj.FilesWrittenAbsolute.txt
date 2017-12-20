@@ -1,0 +1,5 @@
+/home/alexich/RiderProjects/MyGame/MyGame/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alexich/RiderProjects/MyGame/MyGame/bin/Debug/MyGame.pdb
+/home/alexich/RiderProjects/MyGame/MyGame/bin/Debug/MyGame.exe
+/home/alexich/RiderProjects/MyGame/MyGame/obj/Debug/MyGame.exe
+/home/alexich/RiderProjects/MyGame/MyGame/obj/Debug/MyGame.pdb
